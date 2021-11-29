@@ -14,4 +14,7 @@ public class DemoOne {
 			
 		}
 
+		public static void sub(int i, int b) {
+			System.out.println(i - b);
+}
 }
